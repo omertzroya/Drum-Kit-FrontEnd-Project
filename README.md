@@ -30,12 +30,6 @@ Click on the drum buttons to play different drum sounds. Each button corresponds
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'/>
 </div>
 
-## Screenshots
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; text-align: center;">
-        <img src="Screenshots/Screenshots1.png" width="300" alt="Screenshot1">   
-</div>
-
 
 ## Contributing
 
